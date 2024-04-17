@@ -13,7 +13,7 @@ Es un sign up form
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻
 
-COn este proyecto he aprendido a hacer formularios de text
+Con este proyecto he aprendido a hacer formularios de text
 
 ## Tecnologías 🛠
 
