@@ -20,7 +20,7 @@ Con este proyecto he aprendido a hacer formularios de text
 <!-- Iconos sacados de: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://es.wikipedia.org/wiki/HTML5)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://es.wikipedia.org/wiki/CSS)
+[![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://es.wikipedia.org/wiki/sass)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://es.wikipedia.org/wiki/JavaScript)
 
 ## Vista previa del proyecto
@@ -40,7 +40,7 @@ Victor Rico (lesricol)
 
 ## Instalación
 
-Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
+Este proyecto necesita de instalación. npm install
 
 ## Licencia 📄
 
